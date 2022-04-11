@@ -33,4 +33,4 @@ included to clarify the ranges of magnitudes and their colors. Tectonic plate
 fault lines are also included as a selectable data layer.
 
 The complete map is displayed as an html page for a simple full screen view of
-the earthquake data.
+the earthquake data. All files related to the final map are found in the directory [Earthquake_Challenge](/Earthquake_Challenge/).
